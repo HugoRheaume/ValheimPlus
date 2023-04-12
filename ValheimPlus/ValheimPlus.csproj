@@ -382,6 +382,7 @@
     <Compile Include="Configurations\Sections\InventoryConfiguration.cs" />
     <Compile Include="Configurations\Sections\KilnConfiguration.cs" />
     <Compile Include="Configurations\Sections\MapConfiguration.cs" />
+    <Compile Include="Configurations\Sections\PlantConfiguration.cs" />
     <Compile Include="Configurations\Sections\PlayerConfiguration.cs" />
     <Compile Include="Configurations\Sections\ServerConfiguration.cs" />
     <Compile Include="Configurations\Sections\FireSourceConfiguration.cs" />
@@ -420,6 +421,7 @@
     <Compile Include="GameClasses\Tameable.cs" />
     <Compile Include="GameClasses\TeleportWorld.cs" />
     <Compile Include="GameClasses\Humanoid.cs" />
+    <Compile Include="GameClasses\Plant.cs" />
     <Compile Include="RPC\VPlusAck.cs" />
     <Compile Include="UI\VPlusSettings.cs" />
     <Compile Include="Utility\GameObjectAssistant.cs" />
